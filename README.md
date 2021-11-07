@@ -14,8 +14,11 @@ Windows11经典菜单
 <a class="ed_image_link" title="点击查看大图" href="http://www.uicool.cn" target="_blank"><img title="Windows11经典菜单" alt="" src="https://images.gitee.com/uploads/images/2021/1107/164832_8ddc457a_5004363.png" width="100%"  mark="" style=""></a> 
 
 # 安装教程
+
 1.从 发行版 下载最新版
+
 2.解压缩 优爱酷Windows11优化工具_WindowsUtilityApp.zip
+
 3.运行 优爱酷Windows11优化工具_WindowsUtilityApp.exe 即可
 
 # 使用说明
